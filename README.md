@@ -80,3 +80,34 @@ The pipeline consists of four main stages that should be executed in the followi
 - API rate limits may affect processing speed in steps 3 and 4
 - Each step generates detailed logs for monitoring progress
 - The pipeline is designed for research and academic use
+
+## 👍 Citation
+
+If you use this repository and the MARS2 benchmarks, please cite our our papers and workshop/challenge report:
+
+    ```
+    @inproceedings{xu2025mars2,
+    author    = {Xu, Peng and Xiong, Shengwu and Zhang, Jiajun and Chen, Yaxiong and Zhou, Bowen and Loy, Chen Change and Clifton, David and Lee, Kyoung Mu and Van Gool, Luc and others},
+    title     = {MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook},
+    booktitle = {ICCV Workshop},
+    year      = {2025}
+    }
+    ```
+    
+    ```
+    @article{yao2025lens,
+    title={LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models},
+    author={Yao, Ruilin and Zhang, Bo and Huang, Jirui and Long, Xinwei and Zhang, Yifang and Zou, Tianyu and Wu, Yufei and Su, Shichao and Xu, Yifan and Zeng, Wenxi and Yang, Zhaoyu and Li, Guoyou and Zhang, Shilan and Li, Zichan and Chen, Yaxiong and Xiong, Shengwu and Xu, Peng and Zhang, Jiajun and Zhou, Bowen and Clifton, David and Van Gool, Luc},
+    journal={arXiv preprint arXiv:2505.15616},
+    year={2025}
+    }
+    ```
+
+     ```
+    @inproceedings{zhang2025collab,
+    title={ColLab: A Collaborative Spatial Progressive Data Engine for Referring Expression Comprehension and Generation},
+    author={Zhang, Shilan and Huang, Jirui and Yao, Ruilin and Wang, Cong and Chen, Yaxiong and Xu, Peng and Xiong, Shengwu},
+    booktitle={ICICN},
+    year={2025}
+    }
+    ```
